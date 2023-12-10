@@ -1,5 +1,4 @@
-# data-analysis
-Homework for subject at HSE: Data Analysis
+# Data Analysis Homework Project
 
 Work done by students:
 Koshevoi Danila
