@@ -1,2 +1,7 @@
-# modern-methods-of-data-analysis
-Homework for subject at HSE: modern methods of data analysis
+# Data Analysis Homework Project
+
+Work done by students:
+Koshevoi Danila and Slobodeniuk Daniil
+
+Group:
+mSSE22
